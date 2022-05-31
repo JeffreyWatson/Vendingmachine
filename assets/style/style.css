@@ -1,1 +1,5 @@
-/* BASIC STYLES HERE */
+.food {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
